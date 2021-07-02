@@ -11,6 +11,12 @@ export default createGlobalStyle`
     font-family: 'Raleway', sans-serif;
 
     font-size: 62.5%;
+
+    text-decoration: none;
+  }
+
+  a {
+    color: inherit;
   }
 
   html, body, #root {
